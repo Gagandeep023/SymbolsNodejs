@@ -1,0 +1,18 @@
+[
+    {
+    "id" : 1,
+    "name" : "exclamation",
+    "symbol" : "!"
+    },
+    {
+    "id" : 2,
+    "name" : "at_the_rate",
+    "symbol" : "@"
+    },
+    {
+    "id" : 3,
+    "name" : "hash",
+    "symbol" : "#"
+    }
+]
+
